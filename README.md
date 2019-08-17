@@ -52,7 +52,9 @@ Given a list of packages that need to be built and the dependencies for each pac
 ([Python](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/python/ConsecutiveArray.py))<br>
 Given an unsorted array, find the length of the longest sequence of consecutive numbers in the array.
 
-* [Zero Matrix](http://www.byte-by-byte.com/zeromatrix/) ([Github](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/java/ZeroMatrix.java))  
+* [Zero Matrix](http://www.byte-by-byte.com/zeromatrix/)
+([Java](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/java/ZeroMatrix.java))
+([Python](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/python/ZeroMatrix.py))<br>
 Given a boolean matrix, update it so that if any cell is true, all the cells in that row and column are true.
 
 * [Random Binary Tree](http://www.byte-by-byte.com/randombinarytree/) ([Github](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/java/RandomTree.java))  
