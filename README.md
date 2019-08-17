@@ -140,7 +140,9 @@ Given two lines on a Cartesian plane, write a function to determine whether or n
 * [Longest Consecutive Branch](http://www.byte-by-byte.com/longestbranch/)  
 Given a tree, write a function to find the length of the longest branch of nodes in increasing consecutive order.
 
-* [Sort Stacks](http://www.byte-by-byte.com/sortstacks/)  
+* [Sort Stacks](http://www.byte-by-byte.com/sortstacks/)
+([Java](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/java/SortStacks.java))
+([Python](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/python/SortStacks.py))<br>
 Given a stack, sort the elements in the stack using one additional stack.
 
 * [Print Reversed List](http://www.byte-by-byte.com/printreversedlist/)
