@@ -29,6 +29,8 @@ Given a binary tree, write a function to determine whether the tree is balanced.
 Given a list of bytes `a`, each representing one byte of a larger integer (ie. `{0x12, 0x34, 0x56, 0x78}` represents the integer `0x12345678`), and an integer `b`, find `a % b`.
 
 * [Binary Search Tree Verification](http://www.byte-by-byte.com/binarysearchtree/)  
+([Java](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/java/BinarySearchTree.java))
+([Python](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/python/BinarySearchTree.py))<br>
 Given a binary tree, write a function to test if the tree is a binary search tree.
 
 * [Build Order](http://www.byte-by-byte.com/buildorder/)
