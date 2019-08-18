@@ -18,7 +18,9 @@ Given two strings, write a function to determine whether they are anagrams.
 * [Autocomplete](http://www.byte-by-byte.com/autocomplete/) ([Github](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/java/Autocomplete.java))  
 Write an autocomplete class that returns all dictionary words with a given prefix.
 
-* [Balanced Binary Tree](http://www.byte-by-byte.com/balancedtree/)  
+* [Balanced Binary Tree](http://www.byte-by-byte.com/balancedtree/)
+([Java](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/java/BalancedTree.java))
+([Python](https://github.com/samgh/Byte-by-Byte-Solutions/blob/master/python/BalancedTree.py))<br>
 Given a binary tree, write a function to determine whether the tree is balanced.
 
 * [Big Int Mod](http://www.byte-by-byte.com/bigintmod/)

@@ -7,7 +7,6 @@ order.
 Execution: python TreeLevelOrder.py
 
 For more details, check out http://www.byte-by-byte.com/treelevelorder
-
 """
 import unittest
 
